@@ -12,4 +12,4 @@
 
 <hr>
 
-<img src="/_media/about-us.png" alt="Preview DISS Analytics" class="img-responsive">
+<img src="_media/about-us.png" alt="Preview DISS Analytics" class="img-responsive">
