@@ -1,5 +1,5 @@
 <div class="logo">
-	<a href="/#">
+	<a href="https://diss-dev-team.github.io/DA-Doc/#">
 		<img src="_media/logo.png?v1" alt="DISS Analytics" class="img-responsive" />
 	</a>
 </div>
