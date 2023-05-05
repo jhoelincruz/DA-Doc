@@ -15,10 +15,10 @@
 
 Is possible search DISS Analytics in App Store to download.
 
-<img src="/_media/download-app.png" class="img-responsive" target="_blank">
+<img src="_media/download-app.png" class="img-responsive" target="_blank">
 
 ## Web App
 
 Can be accessed by visiting our website: [dissanalytics.com](https://dissanalytics.com)
 
-<img src="/_media/login-web.png" class="img-responsive" target="_blank">
+<img src="_media/login-web.png" class="img-responsive" target="_blank">

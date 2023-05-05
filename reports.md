@@ -2,7 +2,7 @@
 
 To view the list of reports, please click on "reports" or remain on the "welcome" page.
 
-<img src="/_media/reports.png" alt="Reports" />
+<img src="_media/reports.png" alt="Reports" />
 
 ## Standard
 
@@ -32,7 +32,7 @@ The app has different types of filters, by month, by quarter, by year and dynami
 
 To view the filters, it is necessary to click on the following icon to display them.
 
-<img src="/_media/show-filter.png" alt="">
+<img src="_media/show-filter.png" alt="">
 
 ## Excel
 
