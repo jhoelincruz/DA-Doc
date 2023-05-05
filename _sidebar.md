@@ -1,5 +1,5 @@
 <div class="logo">
-	<img src="_media/logo.png" alt="DISS Analytics" class="img-responsive" />
+	<img src="_media/logo.png?v1" alt="DISS Analytics" class="img-responsive" />
 </div>
 
 * [About Us](/)
