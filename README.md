@@ -3,7 +3,7 @@
 > Smart Business Intelligence For Your Growth.
 
 <p>
-	DISS Analytics offers a cutting-edge solution that is specifically designed to help businesses grow by leveraging the power of data analytics. Regardless of your industry, sector, or specialization, DISS Analytics can provide you with the tools you need to gain deeper insights into your operations.
+	DISS Analytics is a data management application designed and developed by our DISS corporation. The platform works in real time and is designed to turn data into information, giving you the opportunity to make decisions and take actions timely.
 </p>
 
 <p>
